@@ -1,0 +1,15 @@
+You can also download the image files from kaggle. I attached the link below.
+
+I trained the model using 100 images for each of the following celebrities: 
+1. Angelina Jolie, 
+2. Brad Pitt, 
+3. Jennifer Lawrence, 
+4. Johnny Depp, 
+5. Megan Fox, 
+6. Robert Downey Jr, 
+7. Sandra Bullock, 
+8. Tom Cruise, 
+9. Tom Hanks, and
+10. Will Smith.
+
+Link of the dataset: https://www.kaggle.com/datasets/jayaantanaath/hollywood-celebrities-images
