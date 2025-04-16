@@ -36,6 +36,8 @@ Each celebrity in the dataset has **100 images** used to train the model:
 - Streamlit web interface
 - Upload any face image and get a prediction!
 
+![Original Original](https://github.com/user-attachments/assets/212238e6-8b8f-4753-937c-df4ddb7b3d46)
+
 ## 🚀 How to Run
 
 ```bash
