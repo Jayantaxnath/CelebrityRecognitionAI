@@ -8,7 +8,7 @@ Welcome to the **Celebrity Face Classifier** – a machine learning project that
 
 ## 📌 Project Overview
 
-This Streamlit app uses face detection, feature extraction (Haar + Wavelets + HOG), and classification using trained machine learning models to recognize celebrities from images.
+This Streamlit app uses face detection, feature extraction (Wavelets + HOG), and classification using trained machine learning models to recognize celebrities from images.
 
 ### 👤 Celebrities Included
 Each celebrity in the dataset has **100 images** used to train the model:
